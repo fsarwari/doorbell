@@ -29,9 +29,9 @@ Connected to door bell button
 * D5 TX (GPIO12)
 
 
-![alt text](https://github.com/fsarwari/doorbell/blob/master/Tamota-Module-config.png?raw=true)
+![alt text](https://github.com/fsarwari/doorbell/blob/main/Tamota-Module-config.png?raw=true)
 
 # Circuit
-![alt text](https://github.com/fsarwari/doorbell/blob/master/circuit.png?raw=true)
+![alt text](https://github.com/fsarwari/doorbell/blob/main/circuit.png?raw=true)
 
 
